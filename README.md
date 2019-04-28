@@ -1,4 +1,7 @@
 # hellostatic
 
 
-[[https://github.com/JungYoungseok/repository/hellostatic/master/test.png|alt=test image]]
+<img src=“test.png”>
+another way
+![](test.png)
+
